@@ -28,3 +28,4 @@ SublimeCodeIntel
 SublimeERB
 SublimeLinter
 SublimeLinterPHP
+CSS Unminifier Sublime Text Plugin //Modificar archivos .min
